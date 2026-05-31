@@ -1,0 +1,12 @@
+# dependencies
+/node_modules
+
+# next.js build output
+/.next
+/out
+
+# typescript
+next-env.d.ts
+
+# local env files
+.env.local
